@@ -1,0 +1,4 @@
+@import "@programmer_network/yail/dist/style.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
